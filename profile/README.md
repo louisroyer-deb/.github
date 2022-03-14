@@ -2,4 +2,6 @@ This organization is used to store debian packaging of some softwares related to
 
 Organization owner: [Louis Royer](https://github.com/louisroyer)
 
-Organization profile picture by Oren neu dag CC-BY-SA-3.0
+Organization profile picture credits:
+- [Oren neu dag CC-BY-SA-3.0](https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg)
+- [Debian Project CC-BY-SA-3.0](https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg?uselang=fr)
